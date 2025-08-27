@@ -1,11 +1,11 @@
 Project Team Role Definitions
 
 Project: [Don't try to bug me ]
-Team:Rawda Mohammed , Alaa Mohammed , Fatma Abd Elrazek Kamal , Hanin Hussain , Sondos ghrib, Alaa hindawy
+Team:**Rawda Mohammed** , **Alaa Mohammed** ,**Fatma Abd Elrazek Kamal** , **Hanin Hussain** , **Sondos ghrib**, **Alaa hindawy**
 
 This document outlines the primary responsibilities for each team member to ensure a smooth workflow and successful project completion as a primary member role.
-1. Data collection & Preparation Team
-Members: Rawda Mohammed & Alaa Mohammad
+1. **Data collection & Preparation Team**
+Members: **Rawda Mohammed & Alaa Mohammad**
 
 Primary Mission: To source, acquire, clean, and prepare the raw data for the entire team. You are the foundation of the project.
 Key Responsibilities:
@@ -18,8 +18,8 @@ Key Responsibilities:
 
 Key Python Libraries: pandas, numpy, requests, beautifulsoup4 (for web scraping).
 
-2. Data Visualization & Presentation Team
-Members: Fatma Abd Elrazek & Hanin Hussain 
+2. **Data Visualization & Presentation Team**
+Members: **Fatma Abd Elrazek & Hanin Hussain** 
 Primary Mission: To translate complex data and analysis results into clear, compelling, and insightful visual stories for the final presentation.
 
 Key Responsibilities:
@@ -33,9 +33,8 @@ Key Responsibilities:
 
 Key Tools: matplotlib, seaborn, plotly, PowerPoint/Google Slides, Canva (optional for design). 
 
-3. Statistical Analysis & Modeling Team
-
-Members: Sondos & Allaa
+3. **Statistical Analysis & Modeling Team**
+Members: **Sondos & Alaa hindaWY**
 
 Primary Mission: To apply statistical techniques to the cleaned data to uncover underlying patterns, test hypotheses, and provide data-driven insights.
 
@@ -55,4 +54,4 @@ Overall Team Collaboration & Workflow
 4. Presentation Build: Fatma & Hanin build the presentation, incorporating visuals based on the cleaned data and annotated with insights from the statistical analysis.
 5. Review & Rehearse: The entire team reviews the final presentation for consistency, accuracy, and impact.
 6. Whole team would share making tableau and power BI design. 
-7.
+
