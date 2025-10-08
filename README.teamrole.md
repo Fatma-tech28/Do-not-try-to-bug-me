@@ -48,9 +48,9 @@ Key Responsibilities:
 
 Overall Team Collaboration & Workflow
 
-1. Kick-off: The entire team agrees on the project's core question and objectives.
-2. Data Hand-off: Rawda & Alaa provide the cleaned dataset to Sondos, Alaa, Fatma, and Hanin.
-3. Analysis  Sync: Sondos & Alaa share key findings with Fatma & Hanin to guide the visual storytelling.
+1. Kick-off: The entire team agrees on the project's core question and objectives.# completed
+2. Data Hand-off: fatma has provided the cleaned dataset to Sondos, Alaa, Fatma,rawda and Hanin.
+3. Analysis  Sync: Sondos & Alaa, hanin share key findings with Fatma & rawda to guide the visual storytelling.
 4. Presentation Build: Fatma & Hanin build the presentation, incorporating visuals based on the cleaned data and annotated with insights from the statistical analysis.
 5. Review & Rehearse: The entire team reviews the final presentation for consistency, accuracy, and impact.
 6. Whole team would share making tableau and power BI design. 
